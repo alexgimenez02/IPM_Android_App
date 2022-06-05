@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.HomeFragment">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="293dp"
+        android:layout_height="125dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="94dp"
+        android:layout_marginEnd="59dp"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/_ndice"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="177dp"
+        android:text="Efficiency of Smart S-light"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="294dp"
+        android:layout_height="126dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="48dp"
+        android:layout_marginEnd="59dp"
+        android:src="@drawable/figure_2_india__state_wise_electricity_consumption_in_public_lighting__source_pricewaterhouse_coopers_inc"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="176dp"
+        android:layout_marginTop="13dp"
+        android:layout_marginEnd="177dp"
+        android:text="Public light consumption"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="294dp"
+        android:layout_height="128dp"
+        android:layout_marginStart="59dp"
+        android:layout_marginTop="42dp"
+        android:layout_marginEnd="59dp"
+        android:src="@drawable/scenario_1_class_a_measurements_and_results_of_energy_consumption"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="177dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="66dp"
+        android:text="Scenenario of light consumption"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+</androidx.constraintlayout.widget.ConstraintLayout>
