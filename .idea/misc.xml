@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/uni/IPM/app/src/main/res/drawable/ic_menu_camera.xml" value="0.339" />
+        <entry key="..\:/uni/IPM/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.339" />
+        <entry key="..\:/uni/IPM/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.339" />
+        <entry key="..\:/uni/IPM/app/src/main/res/drawable/side_nav_bar.xml" value="0.339" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.23560910307898258" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout-w936dp/activity_login.xml" value="0.275" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
@@ -10,11 +14,14 @@
         <entry key="..\:/uni/IPM/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout/app_bar_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout/content_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/uni/IPM/app/src/main/res/layout/fragment_about.xml" value="0.33" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout/fragment_gallery.xml" value="0.36666666666666664" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
         <entry key="..\:/uni/IPM/app/src/main/res/layout/nav_header_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/uni/IPM/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/uni/IPM/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/uni/IPM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.339" />
       </map>
     </option>
   </component>
